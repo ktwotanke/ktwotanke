@@ -36,7 +36,8 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" /> -->
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/102307867?v=4" />
 <p>&emsp;&emsp;Hi,I am SuXi</p>
 <p>&emsp;&emsp;[hobbies]: programming, photography, reading, traveling and singing.</p>
 <p>&emsp;&emsp;Love computer science and IT Internet career, inspirational to become an excellent independent developer</p>
