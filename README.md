@@ -1,10 +1,13 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=black&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);喜溯祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=black&pause=1000&width=435&lines=console.log(%22Hello%20World%22);%E5%96%9C%E6%BA%AF%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!&center=true&size=27" 
+      alt="Typing SVG" 
+      style="max-width: 100%;">
+  </a>
+</div>
 
   <!-- profile logo 个人资料徽标 -->
   <div align='center'>
